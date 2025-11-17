@@ -1,3 +1,4 @@
+
 # EventHub — Full‑Stack Website for `events` MySQL DB
 
 A minimal full‑stack app (Express + MySQL + React + Vite) for the schema in `miniproject_10.sql`. Browse events, view details, login, and book tickets. Clean UI via Pico.css.
